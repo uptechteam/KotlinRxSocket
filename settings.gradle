@@ -1,0 +1,2 @@
+include ':app', ':kotlinrxsocketio'
+rootProject.name='KotlinRxSocketExample'
